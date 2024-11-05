@@ -8,6 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background-color: blue;
 }
 
 header {
@@ -47,4 +48,10 @@ nav ul li a {
     text-decoration: none;
     border-radius: 5px;
     margin-top: 1rem;
+}
+
+.product-item{
+    width: 200px;
+    height: 400px;
+    background-color: #333;
 }
