@@ -13,6 +13,7 @@ header{
     align-items: center;
     justify-content: space-around;
     background-color: #8d4d18;
+    font-size: 10px;
 }
 
 header a {
@@ -25,6 +26,7 @@ header a:hover{
     text-decoration: none;
     color: rgb(255, 174, 0);
     font-weight: bolder;
+    text-decoration: underline;
 }
 
 
